@@ -1,0 +1,10 @@
+{
+    "title": "Welcome to react using react-i18next",
+    "description": {
+        "part1": " Do you know what is Astronomy?",
+        "part2": "Astronomy is the study of everything in the universe beyond Earth’s atmosphere.",
+        "part3": " That includes Sun, Moon, Star and dark energy etc.",
+        "part4": "If you are the big fans of galaxies,",
+        "part5": " Join Us!!!!"
+    }
+}
